@@ -1,0 +1,3 @@
+# chukwubuikem.idigo@gmail.com
+## You *should'nt be able to send an email from the shell here, sorry =)
+mailto:chukwubuikem.idigo@gmail.com
